@@ -1,4 +1,7 @@
 ### Hi there 👋
+I'm Sora, a full stack developer currently working at Chefman. I dabble in AI in my spare time.
+
+<a href="https://stackoverflow.com/users/19792272/sora-teichman"><img src="https://stackoverflow.com/users/flair/19792272.png?theme=clean" width="208" height="58" alt="profile for Sora Teichman at Stack Overflow, Q&amp;A for professional and enthusiast programmers" title="profile for Sora Teichman at Stack Overflow, Q&amp;A for professional and enthusiast programmers"></a>
 
 <!--
 **smargoli2/smargoli2** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
